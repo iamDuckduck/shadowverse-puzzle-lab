@@ -1,0 +1,292 @@
+{
+  "checkedAt": "2026-10-11T01:11:11.296065+00:00",
+  "source": "https://shadowverse-wb.com/web/CardList/cardList",
+  "languageHeader": "cht",
+  "cards": {
+    "10021110": {
+      "common": {
+        "card_id": 10021110,
+        "name": "瞬息的迅捷劍士",
+        "name_ruby": "瞬息的迅捷劍士",
+        "base_card_id": 10021110,
+        "card_resource_id": 100211100,
+        "atk": 1,
+        "life": 1,
+        "flavour_text": "哈，還真慢啊！\n憑你那種龜速，就算到下輩子也追不上我啦！",
+        "skill_text": "【<color=Keyword>疾馳</color>】",
+        "card_set_id": 10000,
+        "type": 1,
+        "class": 2,
+        "tribes": [
+          0
+        ],
+        "cost": 1,
+        "rarity": 1,
+        "cv": "內田雄馬",
+        "illustrator": "言犬",
+        "questions": [],
+        "is_token": false,
+        "is_include_rotation": true,
+        "deck_enabled_num": 3,
+        "card_image_hash": "120880754664424399ab44e866361f08",
+        "card_banner_image_hash": "e9b8f78ec3474596b6e5b0e0cecaf289",
+        "original_card_id": null,
+        "starter_card": {
+          "card_id": 86221110,
+          "name": "瞬息的迅捷劍士",
+          "name_ruby": "瞬息的迅捷劍士",
+          "base_card_id": 86221110,
+          "card_resource_id": 862211100,
+          "atk": 1,
+          "life": 1,
+          "flavour_text": "哈，還真慢啊！\n憑你那種龜速，就算到下輩子也追不上我啦！",
+          "skill_text": "【<color=Keyword>疾馳</color>】",
+          "card_set_id": 81001,
+          "type": 1,
+          "class": 2,
+          "tribes": [
+            0
+          ],
+          "cost": 1,
+          "rarity": 1,
+          "cv": "內田雄馬",
+          "illustrator": "言犬",
+          "questions": [],
+          "is_token": false,
+          "is_include_rotation": false,
+          "deck_enabled_num": 3,
+          "card_image_hash": "25f15f3c686844928d4732662a740f62",
+          "card_banner_image_hash": "3af2a5b2681143069d818ec8ccbcd41c",
+          "evo": {
+            "card_resource_id": 862211101,
+            "flavour_text": "只求比任何人都還要快。\n為了達成這個心願，男子可說是豁出了性命。\n無論嘲笑或後悔，對他來說那全都──\n「──太慢啦！」",
+            "skill_text": "【<color=Keyword>疾馳</color>】",
+            "card_image_hash": "3f32a7bbed284165933f368ea4759a17",
+            "card_banner_image_hash": "80b46659cf6f4e9ca81698e40b14fb21"
+          }
+        },
+        "is_starter_ability_changed": false
+      },
+      "evo": {
+        "card_resource_id": 100211101,
+        "flavour_text": "只求比任何人都還要快。\n為了達成這個心願，男子可說是豁出了性命。\n無論嘲笑或後悔，對他來說那全都──\n「──太慢啦！」",
+        "skill_text": "【<color=Keyword>疾馳</color>】",
+        "card_image_hash": "b520fa9a9a74458fb84676036f8accd5",
+        "card_banner_image_hash": "c495c9c875db4986bbd582dc47135c70"
+      },
+      "style_card_list": []
+    },
+    "10721310": {
+      "common": {
+        "card_id": 10721310,
+        "name": "雙向的調律",
+        "name_ruby": "雙向的調律",
+        "base_card_id": 10721310,
+        "card_resource_id": 107213100,
+        "atk": 0,
+        "life": 0,
+        "flavour_text": "我的能力是掌控聲音。所有事物皆以聲音掌握，\n並加以調律。入伍後，此能力的實用性已在\n間諜行動、破壞廣泛區域等方面獲得認可。\n──吉露塔利亞的供述筆錄 1",
+        "skill_text": "指定1張敵方戰場上的從者卡。給予其3點傷害。【<color=Keyword>協作</color>_<nobr>10</nobr>】到敵方的回合結束為止，使其獲得「無法攻擊從者或主戰者」。",
+        "card_set_id": 10007,
+        "type": 4,
+        "class": 2,
+        "tribes": [
+          20
+        ],
+        "cost": 1,
+        "rarity": 1,
+        "cv": "白石涼子",
+        "illustrator": "irua",
+        "questions": [],
+        "is_token": false,
+        "is_include_rotation": true,
+        "deck_enabled_num": 3,
+        "card_image_hash": "843e31f0a34f48d8b9a4882ec98b79ae",
+        "card_banner_image_hash": "3cb596825b2f499faf9975c16f30107c",
+        "original_card_id": null,
+        "is_starter_ability_changed": false
+      },
+      "evo": [],
+      "style_card_list": []
+    },
+    "90021310": {
+      "common": {
+        "card_id": 90021310,
+        "name": "黃金短劍",
+        "name_ruby": "黃金短劍",
+        "base_card_id": 90021310,
+        "card_resource_id": 900213100,
+        "atk": 0,
+        "life": 0,
+        "flavour_text": "金匠說道：「這把短劍是頂尖的藝術品。」\n盜賊說道：「拿出來恐嚇人時有夠難用。」",
+        "skill_text": "指定1張敵方戰場上的從者卡或敵方的主戰者。給予其1點傷害。",
+        "card_set_id": 90000,
+        "type": 4,
+        "class": 2,
+        "tribes": [
+          18
+        ],
+        "cost": 1,
+        "rarity": 1,
+        "cv": "",
+        "illustrator": "SEMSEI",
+        "questions": [],
+        "is_token": true,
+        "is_include_rotation": false,
+        "deck_enabled_num": 3,
+        "card_image_hash": "2ebba9b89f6f41d0973dd4aa4cb543b1",
+        "card_banner_image_hash": "22a8dbebe2ce473e895d340b0a215928",
+        "original_card_id": null,
+        "is_starter_ability_changed": false
+      },
+      "evo": [],
+      "style_card_list": []
+    },
+    "10001110": {
+      "common": {
+        "card_id": 10001110,
+        "name": "不屈的劍鬥士",
+        "name_ruby": "不屈的劍鬥士",
+        "base_card_id": 10001110,
+        "card_resource_id": 100011100,
+        "atk": 2,
+        "life": 2,
+        "flavour_text": "在充滿紛爭的世界中，唯有自己的力量是可靠的。\n勝利與傳奇，全都只有我能得到手。",
+        "skill_text": "【<color=Keyword>爆能強化</color>_4】使這張卡片+3/+3。",
+        "card_set_id": 10000,
+        "type": 1,
+        "class": 0,
+        "tribes": [
+          0
+        ],
+        "cost": 2,
+        "rarity": 1,
+        "cv": "松岡禎丞",
+        "illustrator": "tricky胡坐",
+        "questions": [],
+        "is_token": false,
+        "is_include_rotation": true,
+        "deck_enabled_num": 3,
+        "card_image_hash": "8f726d216ea14aa4887075025c7f1578",
+        "card_banner_image_hash": "8322825ac4c04936a725ebe4fb0fb624",
+        "original_card_id": null,
+        "starter_card": {
+          "card_id": 86201110,
+          "name": "不屈的劍鬥士",
+          "name_ruby": "不屈的劍鬥士",
+          "base_card_id": 86201110,
+          "card_resource_id": 862011100,
+          "atk": 2,
+          "life": 2,
+          "flavour_text": "在充滿紛爭的世界中，唯有自己的力量是可靠的。\n勝利與傳奇，全都只有我能得到手。",
+          "skill_text": "【<color=Keyword>爆能強化</color>_4】使這張卡片+3/+3。",
+          "card_set_id": 81001,
+          "type": 1,
+          "class": 0,
+          "tribes": [
+            0
+          ],
+          "cost": 2,
+          "rarity": 1,
+          "cv": "松岡禎丞",
+          "illustrator": "tricky胡坐",
+          "questions": [],
+          "is_token": false,
+          "is_include_rotation": false,
+          "deck_enabled_num": 3,
+          "card_image_hash": "8b71cc8153a04d43a5215f4382aa67dc",
+          "card_banner_image_hash": "e2d1294bcbb546c99546cf44971d1c53",
+          "evo": {
+            "card_resource_id": 862011101,
+            "flavour_text": "沒有紛爭的世界，才是我想開創的未來。\n可靠的只有自己。敵人與憎恨，全都由我來扛。",
+            "skill_text": "【<color=Keyword>爆能強化</color>_4】使這張卡片+3/+3。",
+            "card_image_hash": "71e79d2c19f246f9aa590721c1941d1a",
+            "card_banner_image_hash": "6d97efbc4e8b47ecbf7cf53986d49ae7"
+          }
+        },
+        "is_starter_ability_changed": false
+      },
+      "evo": {
+        "card_resource_id": 100011101,
+        "flavour_text": "沒有紛爭的世界，才是我想開創的未來。\n可靠的只有自己。敵人與憎恨，全都由我來扛。",
+        "skill_text": "【<color=Keyword>爆能強化</color>_4】使這張卡片+3/+3。",
+        "card_image_hash": "3315baf63e984439b55540600cb8f935",
+        "card_banner_image_hash": "e43f414da8a4479dbb0fd3bfa0b7ad62"
+      },
+      "style_card_list": []
+    },
+    "10001130": {
+      "common": {
+        "card_id": 10001130,
+        "name": "威撼的歌利亞",
+        "name_ruby": "威撼的歌利亞",
+        "base_card_id": 10001130,
+        "card_resource_id": 100011300,
+        "atk": 4,
+        "life": 5,
+        "flavour_text": "雖擁有巨大身軀，卻毫無怠於鍛鍊之處。\n未披戰甲仍戰無不勝，僅頭部乃須隱藏之弱點。\n只因巨人強大到已無須鍛鍊頭部。",
+        "skill_text": "【<color=Keyword>守護</color>】",
+        "card_set_id": 10000,
+        "type": 1,
+        "class": 0,
+        "tribes": [
+          0
+        ],
+        "cost": 4,
+        "rarity": 1,
+        "cv": "佳月大人",
+        "illustrator": "林",
+        "questions": [],
+        "is_token": false,
+        "is_include_rotation": true,
+        "deck_enabled_num": 3,
+        "card_image_hash": "fef6a42ae32f42468ba8abea64ebb14d",
+        "card_banner_image_hash": "45cbdeee1e0e461c9eb8d9fe1133a44b",
+        "original_card_id": null,
+        "starter_card": {
+          "card_id": 86201130,
+          "name": "威撼的歌利亞",
+          "name_ruby": "威撼的歌利亞",
+          "base_card_id": 86201130,
+          "card_resource_id": 862011300,
+          "atk": 4,
+          "life": 5,
+          "flavour_text": "雖擁有巨大身軀，卻毫無怠於鍛鍊之處。\n未披戰甲仍戰無不勝，僅頭部乃須隱藏之弱點。\n只因巨人強大到已無須鍛鍊頭部。",
+          "skill_text": "【<color=Keyword>守護</color>】",
+          "card_set_id": 81001,
+          "type": 1,
+          "class": 0,
+          "tribes": [
+            0
+          ],
+          "cost": 4,
+          "rarity": 1,
+          "cv": "佳月大人",
+          "illustrator": "林",
+          "questions": [],
+          "is_token": false,
+          "is_include_rotation": false,
+          "deck_enabled_num": 3,
+          "card_image_hash": "95d92c2c89574c509b25bc0b6c535e96",
+          "card_banner_image_hash": "bc7fc4711a184f5faa46309b47fc6560",
+          "evo": {
+            "card_resource_id": 862011301,
+            "flavour_text": "若是凡庸兵卒，會因畏懼戰場而身披戰甲。\n而巨人若刻意身披戰甲，則是為了繼續征戰。\n縱使頭受石擊或身軀屢屢受創，皆無法令巨人止步。",
+            "skill_text": "【<color=Keyword>守護</color>】",
+            "card_image_hash": "1245bf5171264ff0adc9cde631878e76",
+            "card_banner_image_hash": "1a4dd494d55d4f06b0b2a6b7c9ee343b"
+          }
+        },
+        "is_starter_ability_changed": false
+      },
+      "evo": {
+        "card_resource_id": 100011301,
+        "flavour_text": "若是凡庸兵卒，會因畏懼戰場而身披戰甲。\n而巨人若刻意身披戰甲，則是為了繼續征戰。\n縱使頭受石擊或身軀屢屢受創，皆無法令巨人止步。",
+        "skill_text": "【<color=Keyword>守護</color>】",
+        "card_image_hash": "1368f7443ad947309a1bb950c420e675",
+        "card_banner_image_hash": "8a5ffb4f488e45d9a58e2f904d1d715f"
+      },
+      "style_card_list": []
+    }
+  }
+}
